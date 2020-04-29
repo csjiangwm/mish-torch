@@ -1,6 +1,6 @@
 # Mish
 
-This is a PyTorch implementation of the Mish activation by Diganta Misra (https://github.com/digantamisra98/).
+This is a PyTorch implementation of the Mish activation by [Diganta Misra](https://github.com/digantamisra98/).
 
 
 ## Performance
